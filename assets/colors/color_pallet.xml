@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="backgroundColor" type="material">#FFFFFF</color>
+    <color name="lightBlack" type="material">#4D4D4DB2</color>
+    <color name="primaryColor" type="material">#0057B8</color>
+    <color name="white" type="material">#FFFFFF</color>
+    <color name="green" type="material">#00A616</color>
+    <color name="borderColor" type="material">#E8E8E8</color>
+    <color name="yellow" type="material">#FFA800</color>
+    <color name="grey" type="material">#6D6D6D</color>
+    <color name="red" type="material">#FF0000</color>
+
+    <!-- Primary Colors -->
+    <color name="primaryMain">#005788</color>
+    <color name="primarySurface">#8BDEF8</color>
+    <color name="primaryBorder">#6485F6</color>
+    <color name="primaryHover">#267FD6</color>
+    <color name="primaryPressed">#0F3283</color>
+
+    <!-- Secondary Colors -->
+    <color name="secondaryMain">#1BA70F</color>
+    <color name="secondarySurface">#CBEBBE</color>
+    <color name="secondaryBorder">#61CF70</color>
+    <color name="secondaryHover">#127E0B</color>
+    <color name="secondaryPressed">#064E06</color>
+
+    <!-- Gray Scale -->
+    <color name="gray100">#0D0D0D</color>
+    <color name="gray90">#424344</color>
+    <color name="gray80">#616364</color>
+    <color name="gray70">#747678</color>
+    <color name="gray60">#9A9DA0</color>
+    <color name="gray50">#BC8FC2</color>
+    <color name="gray40">#D8DDE0</color>
+    <color name="gray30">#E4E8ED</color>
+    <color name="gray20">#EBF0F4</color>
+    <color name="gray10">#FFFFFF</color>
+
+    <!-- Button Colors -->
+    <color name="BoMain">#0DAE48</color>
+    <color name="BoHover">#007A31</color>
+    <color name="BoPressed">#0D461C</color>
+    <color name="BoDisabled">#0D461C</color>
+
+    <!-- Success Colors -->
+    <color name="successMain">#0DAE48</color>
+    <color name="successHover">#007A31</color>
+    <color name="successPressed">#0D461C</color>
+
+    <!-- Info Colors -->
+    <color name="infoMain">#3287E3</color>
+    <color name="infoHover">#2348F2</color>
+    <color name="infoPressed">#1429B5</color>
+
+    <!-- Warning Colors -->
+    <color name="warningMain">#F98F12</color>
+    <color name="warningHover">#AE840D</color>
+    <color name="warningPressed">#643907</color>
+
+    <!-- Error Colors -->
+    <color name="errorMain">#CD0500</color>
+    <color name="errorHover">#920D0D</color>
+    <color name="errorPressed">#521010</color>
+</resources>
